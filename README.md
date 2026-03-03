@@ -2,7 +2,7 @@
 
 ## About
 Author / Developer : A VINAY KUMAR <br>
-mail : avinaykumar2004@gmail.com <br>
+Mail : avinaykumar2004@gmail.com <br>
 working link : https://avinaykumar26.github.io/Analysis-and-Monitoring-System-for-Kundalini-Tantra-Practices-and-Meditation/
 
 ## Overview
