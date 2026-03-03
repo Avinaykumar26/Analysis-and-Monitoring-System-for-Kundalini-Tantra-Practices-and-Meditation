@@ -1,4 +1,4 @@
-# Kundalini Dashboard
+# Analysis-and-Monitoring-System-for-Kundalini-Tantra-Practices-and-Meditation
 
 ## About
 Author / Developer : A VINAY KUMAR <br>
