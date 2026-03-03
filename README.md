@@ -52,4 +52,4 @@ kundalini-dashboard
 - Chart.js: For visualizing progress data.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed and no one can copy , clone , can not use this project in any form eith or no profit or profit ,
