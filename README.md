@@ -4,6 +4,18 @@
 
 ---
 
+## About
+
+- Author / Developer : A VINAY KUMAR
+- MAIL : avinaykumar2004@gmail.com
+- working link : https://avinaykumar26.github.io/Analysis-and-Monitoring-System-for-Kundalini-Tantra-Practices-and-Meditation/
+- 
+
+- 
+- LinkedIn : www.linkedin.com/in/a-vinay-kumar-xyz
+
+---
+
 ## 📖 Overview
 
 The **Kundalini Tantra Dashboard** is a multi-page web application designed to help practitioners navigate their spiritual journey. It combines ancient Kundalini wisdom with modern web technologies, offering interactive tools for self-assessment, chakra monitoring, guided meditation, AI pose detection, and data-driven progress analytics.
