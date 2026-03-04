@@ -241,7 +241,7 @@ See the [LICENSE](./LICENSE) file for full terms.
 
 > ⚠️ **This repository is public for portfolio/reference purposes only. Public visibility does NOT grant any usage rights.**
 
-To request permission, contact: [GitHub – AVinayKumar](https://github.com/AVinayKumar)
+To request permission, contact: [GitHub – Avinaykumar26](https://github.com/Avinaykumar26)
 
 ---
 
