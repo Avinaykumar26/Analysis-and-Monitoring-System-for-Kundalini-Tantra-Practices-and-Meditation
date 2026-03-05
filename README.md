@@ -246,5 +246,5 @@ To request permission, contact: [GitHub – Avinaykumar26](https://github.com/Av
 ---
 
 <p align="center">
-  <em>🕉️ "The awakening of Kundalini is the beginning of spiritual consciousness." — Swami Sivananda</em>
+  <em> 🕉️ "The awakening of Kundalini is the beginning of spiritual consciousness." — Swami Sivananda </em>
 </p>
